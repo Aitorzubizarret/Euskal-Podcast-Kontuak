@@ -21,13 +21,26 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 [Web orria](https://www.argia.eus/podcast) - [RSS](https://www.argia.eus/podcast/rss) 
 
 - Beranduegi - [RSS](https://www.argia.eus/argia-astekaria/egileak/beranduegi/rss) - [Web orria](https://www.argia.eus/argia-astekaria/egileak/beranduegi)
+- BTN - [Ivoox](https://www.ivoox.com/podcast-btn_sq_f11704817_1.html)
+- Borroka, maitasun eta traizio istorioak - [Ivoox](https://www.ivoox.com/podcast-borroka-maitasun-eta-traizio-istorioak_sq_f11664328_1.html)
+- Argiaren Podcastak - [Ivoox](https://www.ivoox.com/podcast-argiaren-podcastak_sq_f1768320_1.html)
+- Bestelakoak - [Ivoox](https://www.ivoox.com/podcast-bestelakoak_sq_f11130967_1.html)
+- Hodeia ez da existitzen - [Ivoox](https://www.ivoox.com/podcast-hodeia-ez-da-existitzen_sq_f11116270_1.html)
+- Puzka dezagun izotza - [Ivoox](https://www.ivoox.com/podcast-puska-dezagun-izotza_sq_f11117870_1.html)
+- Oasiko kronikak - [Ivoox](https://www.ivoox.com/podcast-oasiko-kronikak_sq_f1988873_1.html)
+- Bertso zaharrak - [Ivoox](https://www.ivoox.com/podcast-bertso-zaharrak_sq_f1894542_1.html)
+- Txina zaharreko ipuinak - [Ivoox](https://www.ivoox.com/podcast-txina-zaharreko-ipuinak_sq_f1883040_1.html)
 - Iñurri Elkartea - [RSS]() - [Web orria](https://www.argia.eus/argia-astekaria/egileak/inurri-elkartea)
+
+## Baleafunk
+
+[Web orria](https://baleafunk.eus/)
 
 ## Berria Podcast
 
 [Web orria](https://www.berria.eus/podcast/)
 
-- New Yorkeko munduak - [RSS Ivoox](https://www.ivoox.com/podcast-new-yorkeko-munduak_sq_f1700891_1.html) - [Web orria](https://www.berria.eus/podcast/new-yorkeko-munduak.html)
+- New Yorkeko munduak - [RSS Ivoox](    ) - [Web orria](https://www.berria.eus/podcast/new-yorkeko-munduak.html)
 - Berria FM - [RSS Ivoox](https://www.ivoox.com/podcast-berria-fm_sq_f1804374_1.html) - [Web orria](https://www.berria.eus/podcast/berria-fm.html)
 - Dunbala - [RSS Ivoox](https://www.ivoox.com/podcast-dunbala_sq_f1859679_1.html) - [Web orria](https://www.berria.eus/podcast/dunbala.html)
 - Bertso jarriak - [RSS](https://www.ivoox.com/podcast-bertso-jarriak_sq_f11302693_1.html) - [Web orria](https://www.berria.eus/podcast/bertso-jarriak.html)
@@ -155,14 +168,35 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 ## Etakitto! Podcast
 
-- [Web orria](https://etakitto.eus/mediateka/podcastak)
-- gazteon - [RSS](https://www.ivoox.com/gazteon_fg_f1766426_filtro_1.xml) - [Web orrria]()
+[Web orria](https://etakitto.eus/mediateka/podcastak)
+
+- gazteon - [RSS Ivoox](https://www.ivoox.com/gazteon_fg_f1766426_filtro_1.xml)
+
+## EuskaDigital
+
+[Web orria](https://www.euskadigital.eus/)
+
+## Euskarabidea
+
+[Web Orria](https://www.euskarabidea.es/)
+
+- Euskara Aleka - [RSS Ivoox]() - [Web orria](https://www.euskarabidea.es/euskara/podcastak?g=2)
+
+## GazteON
+
+[Web orria](https://www.ivoox.com/podcast-gazteon_sq_f1795727_1.html)
+
+- gazteON - [RSS Ivoox](https://www.ivoox.com/gazteon_fg_f1795727_filtro_1.xml)
 
 ## KLAK - Gazte Ahotsa
 
 [Web orria](https://klak.eus/)
 
 - Kabala - [RSS](https://www.ivoox.com/feed_fg_f11381606_filtro_1.xml)
+
+## Marruma Elkartea
+
+- Marruma Kulturalak Pod - [RSS Ivoox]() - [Ivoox](https://www.ivoox.com/podcast-marruma-kulturalak-pod_sq_f1481215_1.html)
 
 ## Mondragon Korporazioa
 
@@ -175,9 +209,12 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 [¿Web orria?](https://irratia.naiz.eus/)
 
 - Zarramarra - [Youtube](https://www.youtube.com/@ZARRAMARRA/playlists)
+- Kirolari gaittun - [Web](https://irratia.naiz.eus/eu/list_irratia/saioak/kirolari-gaittun)
 
 ## Zuzeu Podcast
 
 [Web orria](https://zuzeu.eus/saila/podcast/)
 
-- 
+- 10 minututan - [Ivoox](https://www.ivoox.com/podcast-10-minututan_sq_f1683760_1.html)
+- Bipareta - [Ivoox](https://www.ivoox.com/podcast-zuzeuko-bipareta_sq_f1683758_1.html)
+- Euskal Gaizkileak - [Ivoox](https://www.ivoox.com/podcast-euskal-gaizkileak_sq_f1785746_1.html)
