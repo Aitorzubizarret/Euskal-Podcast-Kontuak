@@ -211,6 +211,10 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Zarramarra - [Youtube](https://www.youtube.com/@ZARRAMARRA/playlists)
 - Kirolari gaittun - [Web](https://irratia.naiz.eus/eu/list_irratia/saioak/kirolari-gaittun)
 
+## Xerezaderen Artxiboa
+
+[Web orria](https://xerezade.org/)
+
 ## Zuzeu Podcast
 
 [Web orria](https://zuzeu.eus/saila/podcast/)
