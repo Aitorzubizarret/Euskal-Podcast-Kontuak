@@ -36,6 +36,10 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 [Web orria](https://baleafunk.eus/)
 
+## Beñat Erezuma
+
+- Zero eta bat - [Ivoox](https://www.ivoox.com/podcast-zero-eta-bat-podcast-artifiziala-benat-erezuma_sq_f11712133_1.html)
+
 ## Berria Podcast
 
 [Web orria](https://www.berria.eus/podcast/)
@@ -195,6 +199,10 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - gazteON - [RSS Ivoox](https://www.ivoox.com/gazteon_fg_f1795727_filtro_1.xml)
 
+## Kaixomaitia.eus
+
+- ¿? - [Soundcloud](https://soundcloud.com/user-221397137) - [Soundcloud RSS](https://feeds.soundcloud.com/users/soundcloud:users:758040061/sounds.rss)
+
 ## KLAK - Gazte Ahotsa
 
 [Web orria](https://klak.eus/)
@@ -211,12 +219,43 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - ¿? [¿RSS?]()
 
+## Mondragon Unibertsitatea
+
+- Putzutik Plazara - [Zuzeu.eus](https://zuzeu.eus/author/putzutik-plazara/) - [Spotify](https://open.spotify.com/episode/4VCercx2cYs2gWXLZ2M4oD?go=1&sp_cid=63a06afffb69f067b18551a6fb483ad4&utm_source=embed_player_p&utm_medium=desktop&nd=1)
+
 ## NAIZ
 
-[¿Web orria?](https://irratia.naiz.eus/)
+[Web orria](https://irratia.naiz.eus/)
 
-- Zarramarra - [Youtube](https://www.youtube.com/@ZARRAMARRA/playlists)
-- Kirolari gaittun - [Web](https://irratia.naiz.eus/eu/list_irratia/saioak/kirolari-gaittun)
+- Bertikala - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/bertikala) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/bertikala.rss)
+- Beste bat - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/beste-bat) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/beste-bat.rss)
+- Bilynch - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/bilynch) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/bilynch.rss)
+- Bidaiari - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/bidaiari) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/programas/bidaiari.rss)
+- Bideokluba - [Web orria](https://irratia.naiz.eus/es/list_irratia/saioak/bideokluba) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/saioak/bideokluba.rss)
+- Esku artean - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/esku-artean) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/esku-artean.rss)
+- Game erauntsia - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/game-erauntsia) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/game-erauntsia.rss)
+- Gelditu makinak - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/gelditu-makinak) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/gelditu-makinak.rss)
+- Global musik - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/global-musik) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/global-musik.rss)
+- Hemen gertatu zen - [Web orria](https://irratia.naiz.eus/eu/list_irratia/emissions/hemen-gertatu-zen) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/emissions/hemen-gertatu-zen.rss)
+- Kajerak - [Web orria](https://irratia.naiz.eus/eu/list_irratia/emissions/kajerak) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/emissions/kajerak.rss)
+- Kirolari gaittun - [Web](https://irratia.naiz.eus/eu/list_irratia/saioak/kirolari-gaittun) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/kirolari-gaittun.rss)
+- Musikharia - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/musikharia) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/musikharia.rss)
+- Pagondoan - [Web orria](https://irratia.naiz.eus/es/list_irratia/saioak/pagondoan) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/saioak/pagondoan.rss)
+- Prest - [Web orria](https://irratia.naiz.eus/es/list_irratia/saioak/prest) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/saioak/prest.rss)
+- Reggae Fever - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/reggae-fever) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/programas/reggae-fever.rss)
+- Etxeko Uzta  - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/etxeko-uzta) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/etxeko-uzta.rss)
+- Sateliteak - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/sateliteak) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/programas/sateliteak.rss)
+- Dena irailerako - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/dena-irailerako) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/programas/dena-irailerako.rss) 
+- Zarramarra - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/zarramarra) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/zarramarra.rss) - [Youtube](https://www.youtube.com/@ZARRAMARRA/playlists)
+
+## Podcast.eus
+
+- Euskal Gaizkileak - [Podcast.eus](https://podcast.eus/category/euskal-gaizkileak/) - [Spotify](https://open.spotify.com/show/39To30DNhf5QAW3P4EwhSR)
+
+## Urtzi Urkizu (Berria Aldizkaria)
+
+- Kroketak - [Spotify](https://open.spotify.com/show/5XY2IGEvKe46RQAw7E9K99) - [Ivoox](https://www.ivoox.com/podcast-kroketak_sq_f11435933_1.html)
+
 
 ## Xerezaderen Artxiboa
 
@@ -225,7 +264,16 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 ## Zuzeu Podcast
 
 [Web orria](https://zuzeu.eus/saila/podcast/)
+[Patreon](https://www.patreon.com/zuzeupod)
 
 - 10 minututan - [Ivoox](https://www.ivoox.com/podcast-10-minututan_sq_f1683760_1.html)
 - Bipareta - [Ivoox](https://www.ivoox.com/podcast-zuzeuko-bipareta_sq_f1683758_1.html)
 - Euskal Gaizkileak - [Ivoox](https://www.ivoox.com/podcast-euskal-gaizkileak_sq_f1785746_1.html)
+- Urpeko Bonbarda - [RSS](https://feeds.transistor.fm/urpeko-bonbarda)
+- Nori kantatzen gaituzte? - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
+- Konparaketak - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
+- Paperezko Itsasoa - [Ivoox](https://www.ivoox.com/podcast-paperezko-itsasoa_sq_f1925685_1.html)
+
+## ¿?
+
+- Polaina - [Spotify](https://open.spotify.com/show/4ly6NKwCKyYtxiN5mcJ4PX?si=pCKYHFrqSxKIOP6iQxhYpw&utm_source=copy-link&nd=1)
