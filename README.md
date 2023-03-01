@@ -51,6 +51,13 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - Bertikala - [Youtube](https://www.youtube.com/@_bertikala_/videos)
 
+## Bertsolari Aldizkaria (Bertsolari.eus)
+
+[Web orria](https://www.bertsolari.eus/k/podcasta/)
+
+- Egañaren belaunaldia - [RSS](https://feeds.redcircle.com/7f31613c-6beb-41d7-8309-5180634c12ec)
+- Makarrizketak - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
+
 ## Cristina Enea Fundazioa
 
 - Solas enea - [RSS Ivoox](https://www.ivoox.com/feed_fg_f11397658_filtro_1.xml) - [Web orria](https://www.cristinaenea.eus/eu/solas-enea-podkasta) - [Youtube](https://www.youtube.com/@cristinaenea7030/videos)
