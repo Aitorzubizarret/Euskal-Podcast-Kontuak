@@ -199,6 +199,22 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - gazteON - [RSS Ivoox](https://www.ivoox.com/gazteon_fg_f1795727_filtro_1.xml)
 
+## Halabedi
+
+- Berbetan - [Web orria](https://halabedi.eus/es/author/berbetan/) - [RSS](https://halabedi.eus/es/author/berbetan/feed/)
+- Bertxoko - [Web orria](https://halabedi.eus/es/author/bertxoko/) - [RSS](https://halabedi.eus/es/author/bertxoko/feed/)
+- 2Matx - [Web orria](https://halabedi.eus/es/author/2matx/) - [RSS](https://halabedi.eus/es/author/2matx/feed/)
+- Kafe Expreso - [Web orria](https://halabedi.eus/es/author/kafe-expreso/) - [RSS](https://halabedi.eus/es/author/kafe-expreso/feed/)
+- Azido beltza - [Web orria](https://halabedi.eus/es/author/azido-beltza/) - [RSS](https://halabedi.eus/es/author/azido-beltza/feed/)
+- Uhintifada - [Web orria](https://halabedi.eus/es/author/Uhintifada/) - [RSS](https://halabedi.eus/es/author/uhintifada/feed/)
+
+## Jakin.eus
+
+[Web orria](https://www.jakin.eus/audioak/podkastak/12)
+
+- Lokatza
+- Jakingunea
+
 ## Kaixomaitia.eus
 
 - ¿? - [Soundcloud](https://soundcloud.com/user-221397137) - [Soundcloud RSS](https://feeds.soundcloud.com/users/soundcloud:users:758040061/sounds.rss)
