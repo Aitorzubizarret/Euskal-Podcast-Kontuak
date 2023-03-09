@@ -15,6 +15,33 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - [NAIZ](#naiz)
 - [Zuzeu Podcast](#zuzeu-podcast)
 
+## Aiaraldea
+
+[Web orria](https://aiaraldea.eus/)
+
+## Aikor
+
+[Web orria](https://aikor.eus/)
+
+## Aiurri
+
+[Web orria](https://aiurri.eus/)
+
+## Alea
+
+[Web orria](https://alea.eus/)
+
+## Amezti
+
+[Web orria](https://amezti.eus/)
+
+## Anboto
+
+[Web orria](https://anboto.org/)
+
+## Antxeta Mendia
+
+[Web orria](https://www.antxetamedia.eus/)
 
 ## Argia Podcast 
 
@@ -32,9 +59,25 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Txina zaharreko ipuinak - [Ivoox](https://www.ivoox.com/podcast-txina-zaharreko-ipuinak_sq_f1883040_1.html)
 - Iñurri Elkartea - [RSS]() - [Web orria](https://www.argia.eus/argia-astekaria/egileak/inurri-elkartea)
 
+## Ataria
+
+[Web orria](https://ataria.eus/)
+
 ## Baleafunk
 
 [Web orria](https://baleafunk.eus/)
+
+## Baleike
+
+[Web orria](https://baleike.eus/)
+
+## Barren
+
+[Web orria](https://barren.eus/)
+
+## Begitu
+
+[Web orria](https://begitu.eus/)
 
 ## Beñat Erezuma
 
@@ -62,9 +105,20 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Egañaren belaunaldia - [RSS](https://feeds.redcircle.com/7f31613c-6beb-41d7-8309-5180634c12ec)
 - Makarrizketak - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
 
+## Bilgune Feminista
+
+[Web orria](https://www.bilgunefeminista.eus/)
+
 ## Cristina Enea Fundazioa
 
 - Solas enea - [RSS Ivoox](https://www.ivoox.com/feed_fg_f11397658_filtro_1.xml) - [Web orria](https://www.cristinaenea.eus/eu/solas-enea-podkasta) - [Youtube](https://www.youtube.com/@cristinaenea7030/videos)
+
+## DOT Durangaldeko Telebista
+
+[Web orria](https://dotb.eus/podcast/)
+
+- Ondoan Dot - [Ivoox](https://www.ivoox.com/podcast-ondoan-dot_sq_f11829596_1.html)
+- EUP Athletic - [Ivvox](https://www.ivoox.com/podcast-eup-athletic_sq_f11830103_1.html)
 
 ## EITB Podcast
 
@@ -177,6 +231,18 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Euskadi Irratia- [RSS](https://api.eitb.eus/api/eitbpodkast/getRss/590855897/itunes/)
 - Radio Euskadi - [RSS](https://api.eitb.eus/api/eitbpodkast/getRss/590795897/itunes/)
 
+## EHKolektiboa
+
+[Web orria](https://ehkolektiboa.eus/)
+
+## Erran
+
+[Web orria](https://erran.eus/)
+
+## Erlo Telebista
+
+[Web orria](http://www.erlotelebista.eus/)
+
 ## Etakitto! Podcast
 
 [Web orria](https://etakitto.eus/mediateka/podcastak)
@@ -186,6 +252,10 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 ## EuskaDigital
 
 [Web orria](https://www.euskadigital.eus/)
+
+## Euskalerria Irratia
+
+[Web orria](https://euskalerriairratia.eus/)
 
 ## Euskarabidea
 
@@ -199,6 +269,26 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - gazteON - [RSS Ivoox](https://www.ivoox.com/gazteon_fg_f1795727_filtro_1.xml)
 
+## Geuria
+
+[Web orria](https://geuria.eus/)
+
+## Goiena
+
+[Web orria](https://goiena.eus/)
+
+## Goierri Irrati telebista
+
+[Web orria](http://www.gitb.eus/)
+
+## Guaixe
+
+[Web orria](https://guaixe.eus/)
+
+## Guraso.eus
+
+[Web orria](https://guraso.eus/audioak/)
+
 ## Halabedi
 
 - Berbetan - [Web orria](https://halabedi.eus/es/author/berbetan/) - [RSS](https://halabedi.eus/es/author/berbetan/feed/)
@@ -207,6 +297,18 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Kafe Expreso - [Web orria](https://halabedi.eus/es/author/kafe-expreso/) - [RSS](https://halabedi.eus/es/author/kafe-expreso/feed/)
 - Azido beltza - [Web orria](https://halabedi.eus/es/author/azido-beltza/) - [RSS](https://halabedi.eus/es/author/azido-beltza/feed/)
 - Uhintifada - [Web orria](https://halabedi.eus/es/author/Uhintifada/) - [RSS](https://halabedi.eus/es/author/uhintifada/feed/)
+
+## Herri Hezitzailea
+
+[Web orria](https://herrihezitzailea.eus/atala/podkast-ak) 
+
+## Hiruka
+
+[Web orria](https://hiruka.eus/)
+
+## Ipar Euskal Herriko Hitza
+
+[Web orria](https://iparraldekohitza.eus/)
 
 ## Jakin.eus
 
@@ -219,15 +321,31 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 
 - ¿? - [Soundcloud](https://soundcloud.com/user-221397137) - [Soundcloud RSS](https://feeds.soundcloud.com/users/soundcloud:users:758040061/sounds.rss)
 
+## Karkara
+
+[Web orria](https://karkara.eus/)
+
 ## KLAK - Gazte Ahotsa
 
 [Web orria](https://klak.eus/)
 
 - Kabala - [RSS](https://www.ivoox.com/feed_fg_f11381606_filtro_1.xml)
 
+## Kronika
+
+[Web orria](https://kronika.eus/)
+
+## Mailope
+
+[Web orria](https://mailope.eus/)
+
 ## Marruma Elkartea
 
 - Marruma Kulturalak Pod - [RSS Ivoox]() - [Ivoox](https://www.ivoox.com/podcast-marruma-kulturalak-pod_sq_f1481215_1.html)
+
+## Maxixatzen
+
+[Web orria](https://maxixatzen.eus/)
 
 ## Mondragon Korporazioa
 
@@ -264,14 +382,45 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Dena irailerako - [Web orria](https://irratia.naiz.eus/es/list_irratia/programas/dena-irailerako) - [RSS](https://irratia.naiz.eus/es/rss/sections/irratia/programas/dena-irailerako.rss) 
 - Zarramarra - [Web orria](https://irratia.naiz.eus/eu/list_irratia/saioak/zarramarra) - [RSS](https://irratia.naiz.eus/eu/rss/sections/irratia/saioak/zarramarra.rss) - [Youtube](https://www.youtube.com/@ZARRAMARRA/playlists)
 
+## Noaua
+
+[Web orria](https://noaua.eus/)
+
+## Oizmendi Telebista
+
+[Web orria](https://oizmendi.eus/)
+
+## Plaentxia
+
+[Web orria](https://plaentxia.eus/)
+
 ## Podcast.eus
 
 - Euskal Gaizkileak - [Podcast.eus](https://podcast.eus/category/euskal-gaizkileak/) - [Spotify](https://open.spotify.com/show/39To30DNhf5QAW3P4EwhSR)
+
+## Topagunea
+
+[Web orria](https://topagunea.eus/)
+
+## Txatxilipurdi
+
+[Web orria](https://txatxilipurdi.eus/)
+
+## Txintxarri
+
+[Web orria](https://txintxarri.eus/)
+
+## Uriola
+
+[Web orria](https://uriola.eus)
 
 ## Urtzi Urkizu (Berria Aldizkaria)
 
 - Kroketak - [Spotify](https://open.spotify.com/show/5XY2IGEvKe46RQAw7E9K99) - [Ivoox](https://www.ivoox.com/podcast-kroketak_sq_f11435933_1.html)
 
+## Uztarria
+
+[Web orria](https://uztarria.eus/)
 
 ## Xerezaderen Artxiboa
 
@@ -289,6 +438,10 @@ Proiektu hau Euskerazko Podcast kontuak toki berean biltzeko sortu dut.
 - Nori kantatzen gaituzte? - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
 - Konparaketak - [RSS](https://feeds.redcircle.com/650e9e21-db4e-4c16-a65e-e2003a8bd2ac)
 - Paperezko Itsasoa - [Ivoox](https://www.ivoox.com/podcast-paperezko-itsasoa_sq_f1925685_1.html)
+
+## 28 Kanala
+
+[Web orria](https://www.28kanala.eus/)
 
 ## ¿?
 
